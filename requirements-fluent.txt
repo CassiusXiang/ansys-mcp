@@ -1,0 +1,5 @@
+# .venv : official PyAnsys Fluent / CFX MCP servers
+# (kept apart from PyMAPDL: these need protobuf 7, PyMAPDL 0.74 needs protobuf 6)
+ansys-fluent-mcp==0.5.0
+ansys-cfx-mcp==0.2.0
+protobuf>=7.35.1,<8

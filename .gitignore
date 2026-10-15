@@ -1,0 +1,17 @@
+# virtual environments (recreate with setup.ps1)
+.venv/
+.venv-mapdl/
+.venv-geom/
+
+# MAPDL working directories: databases, results, logs, plots, pid/lock files (can be GBs)
+work/
+work-test/
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.idea/
+Thumbs.db

@@ -1,0 +1,3 @@
+# .venv-geom : STEP -> Parasolid conversion via the Ansys Geometry Service (step_to_parasolid.py)
+ansys-geometry-core==0.18.2
+gmsh==4.15.2

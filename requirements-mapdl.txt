@@ -1,0 +1,5 @@
+# .venv-mapdl : MAPDL MCP server (mapdl_mcp.py)
+ansys-mapdl-core[graphics]==0.74.1
+fastmcp==4.1.0
+pyvista==0.49.1
+psutil==7.2.2
